@@ -1,2 +1,2 @@
-# minuscurl
+# Urly
 A demo URL shortener
